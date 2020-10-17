@@ -1,0 +1,7 @@
+number of cycles :  5
+1th members : 1 2 3 
+2th members : 4 
+3th members : 5 6 8 9 10 
+4th members : 7 
+5th members : 11 12 13 14 15 
+2013210109 Kim Hyung Jun
